@@ -1,0 +1,22 @@
+{
+  "name": "fluffy-bassoon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CollierPlays/fluffy-bassoon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CollierPlays/fluffy-bassoon/issues"
+  },
+  "homepage": "https://github.com/CollierPlays/fluffy-bassoon#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
