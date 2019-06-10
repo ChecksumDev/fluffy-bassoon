@@ -18,5 +18,11 @@
   "homepage": "https://github.com/CollierPlays/fluffy-bassoon#readme",
   "devDependencies": {
     "eslint": "^5.16.0"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv-flow": "^2.0.0",
+    "enmap": "^4.8.7",
+    "fs": "0.0.1-security"
   }
 }
